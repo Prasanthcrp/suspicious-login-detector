@@ -10,10 +10,9 @@ A simple Python-based tool that detects suspicious login attempts by analyzing I
 
 ##  Project Structure
 ```
-suspicious-login-detector/
-鈹溾攢鈹€ suspicious_login_detector.py
-鈹溾攢鈹€ sample_logs.csv
-鈹溾攢鈹€ README.md
+suspicious-login-detector/   suspicious_login_detector.py
+sample_logs.csv
+README.md
 ```
 
 ##  Sample Input (Python Dictionary)
